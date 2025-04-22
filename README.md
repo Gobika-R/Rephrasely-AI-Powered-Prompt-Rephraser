@@ -1,4 +1,4 @@
-Rephrasely – AI-Powered Prompt Rephraser
+*Rephrasely – AI-Powered Prompt Rephraser*
 
 Rephrasely is an AI-powered tool designed to intelligently rephrase prompts. Whether you're working with creative text or need clarity and variation in your prompts, Rephrasely delivers real-time suggestions with just a click.
 
